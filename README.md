@@ -26,12 +26,29 @@ SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into
 
 ## Features
 
-- **Homebrew Manager** — Browse supported homebrew sources and manage compatible packages.
-- **FTP File Manager** — Transfer and organize files through an available FTP connection, with convenient file-management controls.
-- **Hotspot & Network Tools** — Configure and inspect supported Windows connectivity workflows.
-- **Unified Desktop Experience** — Keep essential utilities together in one Windows application.
+### Homebrew Manager
+- Browse a curated homebrew catalog organized by category.
+- Check supported GitHub repositories for new releases and available NRO files.
+- Download eligible NRO releases and install them over FTP to the connected console, with confirmation and applicable integrity checks.
+- Discover community projects from supported sources; community listings are not automatically treated as verified or safe to install.
 
-Feature availability depends on the connected device, compatible software, Windows permissions, and the installed build. Additional integrations will be documented when implemented and tested.
+### FTP File Manager
+- Browse PC files and the connected console's FTP directories side by side.
+- Upload and download files, create folders, and navigate directories from one window.
+- Manage transfers with a queue, progress information, pause and retry controls.
+- Find a console's FTP address and optionally reconnect after a dropped connection.
+
+### Hotspot & Network Tools
+- Start and stop supported Windows Mobile Hotspot services from the application.
+- Configure the hotspot Wi-Fi name and password through Windows-supported controls.
+- View local gateway, DNS, HTTP, bridge, and connection diagnostics.
+- Use local connectivity services for supported workflows. **Offline isolation is not guaranteed**: independently verify that internet access is blocked before connecting a console.
+
+### Unified Windows Interface
+- Access the dashboard, FTP, Homebrew, network settings, diagnostics, and update controls in one place.
+- Check service status and troubleshoot connections without switching between separate utilities.
+
+Features depend on device compatibility, network configuration, Windows permissions, and the installed build. A repository listing or successful download does not establish that homebrew is safe or compatible.
 
 ## Application Preview
 
