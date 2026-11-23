@@ -12,7 +12,7 @@
 
 A streamlined Windows companion application for managing homebrew, transferring files, and configuring supported local connectivity workflows.
 
-**Windows 10 / 11 · x64 · Beta**
+**Windows 10 / 11 · x64 · Portable · Beta**
 
 [Releases](https://github.com/blueshockz47/SwitchNest-AIO/releases) · [Report an issue](https://github.com/blueshockz47/SwitchNest-AIO/issues)
 
@@ -25,6 +25,10 @@ A streamlined Windows companion application for managing homebrew, transferring 
 SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into a single desktop interface. Built on the foundation of the SwitchNest Linux project, it prioritizes a clear workflow, practical tools, and predictable behavior.
 
 ## Features
+
+### Portable Windows Application
+- Run SwitchNest AIO directly from its extracted Windows folder without a traditional installer.
+- Keep the application and its bundled components together for straightforward setup and updates. Some network features still require administrator approval and Windows configuration.
 
 ### Homebrew Manager
 - Browse a curated homebrew catalog organized by category.
@@ -40,7 +44,7 @@ SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into
 
 ### Hotspot & Network Tools
 - Create and manage a local Windows hotspot for supported Switch 2 connectivity workflows. A working Ethernet (LAN) or Wi-Fi connection with internet access is required on the Windows PC as the source connection for Windows Mobile Hotspot.
-- Use local DNS resolution and HTTP responses to handle supported connectivity-test requests without requiring an upstream internet connection.
+- Use local DNS resolution and HTTP responses to answer supported Nintendo connectivity-test requests, helping the console complete certain network checks while using a local-only hotspot without upstream internet access. This is not a guarantee that every Nintendo internet-access check will succeed.
 - Keep local FTP and homebrew file-transfer services accessible over the hotspot.
 - Monitor DNS, HTTP, bridge, gateway, and connection status from the dashboard.
 - Configure hotspot Wi-Fi settings and troubleshoot network issues.
