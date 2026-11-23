@@ -80,7 +80,7 @@ The beta download will appear on the [Releases page](https://github.com/blueshoc
 
 ## Windows Mobile Hotspot setup — important power-saving setting
 
-Before using Hotspot & Network Tools, open **Windows Settings → Network & internet → Mobile hotspot** (German: **Einstellungen → Netzwerk und Internet → Mobiler Hotspot**) and set **Power saving / Energiesparmodus** to **Off / Aus**. When this option is on, Windows may automatically switch off Mobile Hotspot if no devices are connected, interrupting setup before a console joins.
+Before using Hotspot & Network Tools, open **Windows Settings → Network & internet → Mobile hotspot** and set **Power saving** to **Off**. When this option is on, Windows may automatically switch off Mobile Hotspot if no devices are connected, interrupting setup before a console joins.
 
 If the hotspot switches off unexpectedly, disconnect the console, stop SwitchNest services, and test Windows Mobile Hotspot independently for 10 minutes with power saving off. Only reconnect the console after the hotspot is stable and offline isolation has been independently verified on another device. Disabling power saving is a troubleshooting recommendation, **not** a guarantee of stability or isolation.
 
