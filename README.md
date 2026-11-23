@@ -46,10 +46,6 @@ SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into
 - Configure hotspot Wi-Fi settings and troubleshoot network issues.
 - **Important:** Local DNS responses do not guarantee that all console connectivity checks will pass or that the hotspot is fully offline. Verify internet isolation independently before connecting a console.
 
-### Unified Windows Interface
-- Access the dashboard, FTP, Homebrew, network settings, diagnostics, and update controls in one place.
-- Check service status and troubleshoot connections without switching between separate utilities.
-
 Features depend on device compatibility, network configuration, Windows permissions, and the installed build. A repository listing or successful download does not establish that homebrew is safe or compatible.
 
 ## Application Preview
