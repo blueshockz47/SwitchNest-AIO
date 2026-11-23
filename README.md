@@ -27,6 +27,26 @@ SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into
 
 Feature availability depends on the connected device, compatible software, Windows permissions, and the installed build. Additional integrations will be documented when implemented and tested.
 
+## Application Preview
+
+A look at the current SwitchNest Windows interface. Screenshots are from the existing application; branding and version labels will be updated for the AIO beta.
+
+### Overview
+
+![SwitchNest overview dashboard](switchnest-overview.png)
+
+### FTP Manager
+
+![SwitchNest FTP Manager](switchnest-ftp-manager.png)
+
+### Homebrew Manager
+
+![SwitchNest Homebrew Manager](switchnest-homebrew-manager.png)
+
+### Settings
+
+![SwitchNest network and hotspot settings](switchnest-settings.png)
+
 ## Download
 
 **First planned release: `v1.0.0-Beta`**
