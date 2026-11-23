@@ -39,7 +39,7 @@ SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into
 - Find a console's FTP address and optionally reconnect after a dropped connection.
 
 ### Hotspot & Network Tools
-- Create and manage a local Windows hotspot for supported Switch 2 connectivity workflows.
+- Create and manage a local Windows hotspot for supported Switch 2 connectivity workflows. A working Ethernet (LAN) or Wi-Fi connection with internet access is required on the Windows PC as the source connection for Windows Mobile Hotspot.
 - Use local DNS resolution and HTTP responses to handle supported connectivity-test requests without requiring an upstream internet connection.
 - Keep local FTP and homebrew file-transfer services accessible over the hotspot.
 - Monitor DNS, HTTP, bridge, gateway, and connection status from the dashboard.
@@ -81,6 +81,7 @@ The beta download will appear on the [Releases page](https://github.com/blueshoc
 ## Requirements
 
 - Windows 10 or Windows 11 (64-bit)
+- A working Ethernet (LAN) or Wi-Fi connection with internet access on the Windows PC to serve as the source for Windows Mobile Hotspot
 - Compatible network adapter and permissions for features that modify network settings
 - A supported device and connection for file transfer
 
