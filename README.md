@@ -39,10 +39,12 @@ SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into
 - Find a console's FTP address and optionally reconnect after a dropped connection.
 
 ### Hotspot & Network Tools
-- Start and stop supported Windows Mobile Hotspot services from the application.
-- Configure the hotspot Wi-Fi name and password through Windows-supported controls.
-- View local gateway, DNS, HTTP, bridge, and connection diagnostics.
-- Use local connectivity services for supported workflows. **Offline isolation is not guaranteed**: independently verify that internet access is blocked before connecting a console.
+- Create and manage a local Windows hotspot for supported Switch 2 connectivity workflows.
+- Use local DNS resolution and HTTP responses to handle supported connectivity-test requests without requiring an upstream internet connection.
+- Keep local FTP and homebrew file-transfer services accessible over the hotspot.
+- Monitor DNS, HTTP, bridge, gateway, and connection status from the dashboard.
+- Configure hotspot Wi-Fi settings and troubleshoot network issues.
+- **Important:** Local DNS responses do not guarantee that all console connectivity checks will pass or that the hotspot is fully offline. Verify internet isolation independently before connecting a console.
 
 ### Unified Windows Interface
 - Access the dashboard, FTP, Homebrew, network settings, diagnostics, and update controls in one place.
