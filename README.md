@@ -54,23 +54,31 @@ Features depend on device compatibility, network configuration, Windows permissi
 
 ## Application Preview
 
-A look at the current SwitchNest Windows interface. Screenshots are from the existing application; branding and version labels will be updated for the AIO beta.
+Explore SwitchNest AIO's Windows interface, from live hotspot monitoring to file transfers and homebrew discovery.
 
-### Overview
+### Overview — Live Services
 
-![SwitchNest overview dashboard](switchnest-overview.png)
+![SwitchNest AIO dashboard showing hotspot, DNS, HTTP and Bridge running](SwitchNest-Overview.png)
 
-### FTP Manager
+Monitor the hotspot, DNS, HTTP, and Bridge services from one dashboard, with connected-device information and direct access to Windows Mobile Hotspot settings. The screenshot shows an active service session; actual availability and internet isolation depend on the user's system and network configuration.
 
-![SwitchNest FTP Manager](switchnest-ftp-manager.png)
+### FTP Manager — File Transfers
 
-### Homebrew Manager
+![SwitchNest AIO dual-pane FTP file manager](SwitchNest-FTP-Manager.png)
 
-![SwitchNest Homebrew Manager](switchnest-homebrew-manager.png)
+Browse local and console files side by side, manage folders, and transfer files using the integrated FTP manager.
 
-### Settings
+### Homebrew Manager — Discover and Install
 
-![SwitchNest network and hotspot settings](switchnest-settings.png)
+![SwitchNest AIO Homebrew Manager catalog](SwitchNest-Homebrew-Manager.png)
+
+Browse homebrew by category, inspect available release assets, and use the supported download and FTP installation workflows. Community listings and release availability are not safety or compatibility guarantees.
+
+### Settings — Hotspot Configuration
+
+![SwitchNest AIO hotspot configuration settings](SwitchNest-Settings.png)
+
+Configure supported Windows Mobile Hotspot options and local network preferences from the application.
 
 ## Download
 
