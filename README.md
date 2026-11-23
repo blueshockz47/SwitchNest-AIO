@@ -78,6 +78,12 @@ A look at the current SwitchNest Windows interface. Screenshots are from the exi
 
 The beta download will appear on the [Releases page](https://github.com/blueshockz47/SwitchNest-AIO/releases) after the Windows package passes validation and is published. No download is available from this repository yet.
 
+## Windows Mobile Hotspot setup — important power-saving setting
+
+Before using Hotspot & Network Tools, open **Windows Settings → Network & internet → Mobile hotspot** (German: **Einstellungen → Netzwerk und Internet → Mobiler Hotspot**) and set **Power saving / Energiesparmodus** to **Off / Aus**. When this option is on, Windows may automatically switch off Mobile Hotspot if no devices are connected, interrupting setup before a console joins.
+
+If the hotspot switches off unexpectedly, disconnect the console, stop SwitchNest services, and test Windows Mobile Hotspot independently for 10 minutes with power saving off. Only reconnect the console after the hotspot is stable and offline isolation has been independently verified on another device. Disabling power saving is a troubleshooting recommendation, **not** a guarantee of stability or isolation.
+
 ## Requirements
 
 - Windows 10 or Windows 11 (64-bit)
