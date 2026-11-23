@@ -93,8 +93,29 @@ SwitchNest AIO is in active development. Back up important data before testing a
 
 ## Credits
 
-**Project:** [blueshockz47](https://github.com/blueshockz47)
+**Project development:** [blueshockz47](https://github.com/blueshockz47)
 
-SwitchNest AIO builds on the work behind [SwitchNest Windows](https://github.com/blueshockz47/SwitchNest-Windows). Thanks to the developers and maintainers of the independent homebrew, networking, and open-source tools that make this ecosystem possible. Project-specific upstream acknowledgements and license notices will be maintained as integrations are verified.
+**Project foundation:** [SwitchNest Linux / SwitchNest Hotspot](https://github.com/blueshockz47/SwitchNest-Hotspot) — the original Linux project and its homebrew catalog approach. The Windows implementation also builds on [SwitchNest Windows](https://github.com/blueshockz47/SwitchNest-Windows).
+
+### Libraries and platform components
+
+- [Python](https://www.python.org/) and [Tkinter/Tcl-Tk](https://docs.python.org/3/library/tkinter.html) — application runtime and desktop interface.
+- [PyInstaller](https://pyinstaller.org/) — Windows executable packaging.
+- [tkinterdnd2](https://github.com/pmgagne/tkinterdnd2) — drag-and-drop integration.
+- [dnslib](https://github.com/paulc/dnslib) — DNS packet handling.
+- [pydivert](https://github.com/ffalcinelli/pydivert) and [WinDivert](https://github.com/basil00/WinDivert) — Windows packet interception and filtering.
+- [Windows Runtime (WinRT)](https://learn.microsoft.com/en-us/uwp/api/windows.networking.networkoperators.networkoperatortetheringmanager) and the [Python WinRT bindings](https://pypi.org/project/winrt-Windows.Networking.NetworkOperators/) — Windows Mobile Hotspot control.
+- Microsoft Windows Mobile Hotspot, Internet Connection Sharing (ICS), and Windows Firewall — operating-system networking facilities.
+
+### Homebrew discovery and community sources
+
+- [GitHub](https://github.com/) — repository metadata and release distribution.
+- [BrewStore community catalog](https://github.com/HerXayah/brewstore-repo) by HerXayah — external homebrew catalog listings.
+- [Switch 2 Homebrew Catalog (i2zs)](https://github.com/dadadush/switch2-homebrew-catalog) by dadadush — external homebrew catalog listings.
+- [r/switch2hacks](https://www.reddit.com/r/switch2hacks/) — community project discovery.
+
+**Homebrew authors and maintainers:** The Homebrew Manager references independent projects, including [RetroArch-S2](https://github.com/NerdsMcGee/retroarch-s2), [SW2PS2](https://github.com/Rodpad/SW2PS2), [kaiHEN FTPD Plugin](https://github.com/NerdsMcGee/kaihen-ftpd-plugin), [Checkpoint](https://github.com/wowilookgood/Checkpoint), and many others. Credit and licensing for each homebrew belong to its respective authors and repositories. Listing a project does not imply endorsement, verification, or inclusion of its code in SwitchNest AIO.
+
+**Licenses:** This acknowledgment is not a substitute for required third-party copyright notices or license texts. These must be reviewed and included with any redistributed dependencies or binaries before the beta release.
 
 *SwitchNest AIO is an independent community project and is not affiliated with or endorsed by Nintendo.*
