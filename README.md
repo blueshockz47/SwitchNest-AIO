@@ -22,7 +22,7 @@ A streamlined Windows companion application for managing homebrew, transferring 
 
 ## Overview
 
-SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into a single desktop interface. Built on the existing SwitchNest Windows project, it prioritizes a clear workflow, practical tools, and predictable behavior.
+SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into a single desktop interface. Built on the foundation of the SwitchNest Linux project, it prioritizes a clear workflow, practical tools, and predictable behavior.
 
 ## Features
 
