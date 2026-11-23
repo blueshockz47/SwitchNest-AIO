@@ -4,7 +4,7 @@
 
 ### One workspace. Essential Switch 2 tools.
 
-A streamlined Windows companion application for managing homebrew, transferring files, and working with supported local connectivity and payload workflows.
+A streamlined Windows companion application for managing homebrew, transferring files, and configuring supported local connectivity workflows.
 
 **Windows 10 / 11 · x64 · Beta**
 
@@ -23,7 +23,6 @@ SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into
 - **Homebrew Manager** — Browse supported homebrew sources and manage compatible packages.
 - **FTP File Manager** — Transfer and organize files through an available FTP connection, with convenient file-management controls.
 - **Hotspot & Network Tools** — Configure and inspect supported Windows connectivity workflows.
-- **CivSwitch Payload Loader** — Access the existing CivSwitch-oriented payload workflow.
 - **Unified Desktop Experience** — Keep essential utilities together in one Windows application.
 
 Feature availability depends on the connected device, compatible software, Windows permissions, and the installed build. Additional integrations will be documented when implemented and tested.
@@ -38,7 +37,7 @@ The beta download will appear on the [Releases page](https://github.com/blueshoc
 
 - Windows 10 or Windows 11 (64-bit)
 - Compatible network adapter and permissions for features that modify network settings
-- A supported device and connection for file transfer or payload workflows
+- A supported device and connection for file transfer
 
 Some features require administrator approval. Hardware compatibility and connectivity may vary.
 
