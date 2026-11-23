@@ -44,7 +44,7 @@ SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into
 
 ### Hotspot & Network Tools
 - Create and manage a local Windows hotspot for supported Switch 2 connectivity workflows. A working Ethernet (LAN) or Wi-Fi connection with internet access is required on the Windows PC as the source connection for Windows Mobile Hotspot.
-- Use local DNS resolution and HTTP responses to answer supported Nintendo connectivity-test requests, helping the console complete certain network checks while using a local-only hotspot without upstream internet access. This is not a guarantee that every Nintendo internet-access check will succeed.
+- Use local DNS resolution and HTTP responses to answer supported Nintendo connectivity-test requests, helping the console complete certain network checks while using a local-only hotspot without upstream internet access.
 - Keep local FTP and homebrew file-transfer services accessible over the hotspot.
 - Monitor DNS, HTTP, bridge, gateway, and connection status from the dashboard.
 - Configure hotspot Wi-Fi settings and troubleshoot network issues.
