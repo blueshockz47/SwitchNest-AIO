@@ -14,11 +14,11 @@ A streamlined Windows companion application for managing homebrew, transferring 
 
 **Windows 10 / 11 · x64 · Portable · Beta**
 
-### [⬇️ Download SwitchNest AIO v1.0.0-Beta for Windows](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.0-Beta/SwitchNest-AIO-v1.0.0-Beta.zip)
+### [⬇️ Download SwitchNest AIO v1.0.1-Beta for Windows](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.1-Beta/SwitchNest-AIO-v1.0.1-Beta.zip)
 
 **For most users: download the Windows ZIP above.** Extract it, then run `SwitchNest-AIO.exe`.
 
-[Other downloads: source code and SHA-256 checksums](#download-switchnest-aio--v100-beta) · [Release notes](https://github.com/blueshockz47/SwitchNest-AIO/releases/tag/v1.0.0-Beta) · [Report an issue](https://github.com/blueshockz47/SwitchNest-AIO/issues)
+[Other downloads: source code and SHA-256 checksums](#download-switchnest-aio--v101-beta) · [Release notes](https://github.com/blueshockz47/SwitchNest-AIO/releases/tag/v1.0.1-Beta) · [Report an issue](https://github.com/blueshockz47/SwitchNest-AIO/issues)
 
 </div>
 
@@ -84,25 +84,25 @@ Browse homebrew by category, inspect available release assets, and use the suppo
 
 Configure supported Windows Mobile Hotspot options and local network preferences from the application.
 
-## Download SwitchNest AIO — v1.0.0-Beta
+## Download SwitchNest AIO — v1.0.1-Beta
 
 <div align="center">
 
-### ⬇️ [Download SwitchNest AIO for Windows](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.0-Beta/SwitchNest-AIO-v1.0.0-Beta.zip)
+### ⬇️ [Download SwitchNest AIO for Windows](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.1-Beta/SwitchNest-AIO-v1.0.1-Beta.zip)
 
 **Windows 10 / 11 · 64-bit · Portable · No installer required**
 
-**[View release notes](https://github.com/blueshockz47/SwitchNest-AIO/releases/tag/v1.0.0-Beta)**
+**[View release notes](https://github.com/blueshockz47/SwitchNest-AIO/releases/tag/v1.0.1-Beta)**
 
 </div>
 
 | File | Who needs it? | Download |
 | --- | --- | --- |
-| **Windows application** — `SwitchNest-AIO-v1.0.0-Beta.zip` | **Most users — download this one.** | **[Download Windows ZIP](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.0-Beta/SwitchNest-AIO-v1.0.0-Beta.zip)** |
-| Source code — `SwitchNest-AIO-source.zip` | Developers who want to inspect or build the application. | [Download source ZIP](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.0-Beta/SwitchNest-AIO-source.zip) |
-| `SHA256SUMS` | Anyone who wants to verify the downloaded ZIP files. | [Download checksums](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.0-Beta/SHA256SUMS) |
+| **Windows application** — `SwitchNest-AIO-v1.0.1-Beta.zip` | **Most users — download this one.** | **[Download Windows ZIP](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.1-Beta/SwitchNest-AIO-v1.0.1-Beta.zip)** |
+| Source code — `SwitchNest-AIO-source.zip` | Developers who want to inspect or build the application. | [Download source ZIP](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.1-Beta/SwitchNest-AIO-source.zip) |
+| `SHA256SUMS` | Anyone who wants to verify the downloaded ZIP files. | [Download checksums](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.1-Beta/SHA256SUMS) |
 
-> **Not sure which file to download?** Choose **SwitchNest-AIO-v1.0.0-Beta.zip**. The source ZIP is not the ready-to-run application. GitHub's automatically generated “Source code (zip)” and “Source code (tar.gz)” files are snapshots of the public release repository and are **not** the Windows app.
+> **Not sure which file to download?** Choose **SwitchNest-AIO-v1.0.1-Beta.zip**. The source ZIP is not the ready-to-run application. GitHub's automatically generated “Source code (zip)” and “Source code (tar.gz)” files are snapshots of the public release repository and are **not** the Windows app.
 
 **Quick start:** Extract the Windows ZIP → open the `SwitchNest` folder → read `README-FIRST.txt` → launch `SwitchNest-AIO.exe`. **Before starting the hotspot, configure its SSID and password in Settings.** Keep `_internal` and `SwitchNest-Service-Helper.exe` together.
 
