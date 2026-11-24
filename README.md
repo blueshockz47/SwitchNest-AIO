@@ -146,6 +146,8 @@ Original SwitchNest AIO source code is licensed under the [MIT License](LICENSE)
 
 **Project development:** [blueshockz47](https://github.com/blueshockz47)
 
+**AI-assisted development:** [ChatGPT by OpenAI](https://chatgpt.com/) — assistance with software design, implementation, debugging, regression tests, CI workflows, and documentation. Project decisions, hands-on testing, and release approval remain with the project maintainer.
+
 **Related project:** [SwitchNest Hotspot for Linux](https://github.com/blueshockz47/SwitchNest-Hotspot). SwitchNest AIO was developed separately from scratch for Windows.
 
 ### Libraries and platform components
