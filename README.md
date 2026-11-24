@@ -116,6 +116,10 @@ Some features require administrator approval. Hardware compatibility and connect
 
 SwitchNest AIO is in active development. Back up important data before testing and review any network changes before applying them. Beta releases may contain incomplete functionality or known issues.
 
+## License
+
+Original SwitchNest AIO source code is licensed under the [MIT License](LICENSE). Third-party dependencies and assets retain their own licenses; see their respective notices.
+
 ## Credits
 
 **Project development:** [blueshockz47](https://github.com/blueshockz47)
