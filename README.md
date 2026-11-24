@@ -22,7 +22,7 @@ A streamlined Windows companion application for managing homebrew, transferring 
 
 ## Overview
 
-SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into a single desktop interface. Built on the foundation of the SwitchNest Linux project, it prioritizes a clear workflow, practical tools, and predictable behavior.
+SwitchNest AIO brings frequently used Nintendo Switch 2 companion utilities into a single desktop interface. Developed from scratch for Windows, it prioritizes a clear workflow, practical tools, and predictable behavior.
 
 ## Features
 
@@ -84,7 +84,18 @@ Configure supported Windows Mobile Hotspot options and local network preferences
 
 **First planned release: `v1.0.0-Beta`**
 
-The beta download will appear on the [Releases page](https://github.com/blueshockz47/SwitchNest-AIO/releases) after the Windows package passes validation and is published. No download is available from this repository yet.
+The Windows portable ZIP and a separate source-code ZIP will appear on the [Releases page](https://github.com/blueshockz47/SwitchNest-AIO/releases) when the beta is published. Until then, no public release assets are available. The release will also include SHA-256 checksums.
+
+## First-time setup
+
+1. Download the portable Windows ZIP from [Releases](https://github.com/blueshockz47/SwitchNest-AIO/releases) when published.
+2. Extract the ZIP and open `SwitchNest/SwitchNest-AIO.exe` (do not launch from inside the ZIP). Keep `_internal` and `SwitchNest-Service-Helper.exe` together.
+3. **Before starting the hotspot, open Settings in SwitchNest AIO and set your Wi-Fi name (SSID) and password.** Apply the settings while the hotspot and services are stopped.
+4. Open Windows Settings → Network & internet → Mobile hotspot and disable Power saving.
+5. Start the hotspot from SwitchNest AIO, connect your Switch 2 to the configured Wi-Fi, and check the Overview status.
+6. For FTP transfers, start an FTP server on the Switch 2, then use **Find Switch IP** in FTP Manager or Homebrew Manager.
+
+A `README-FIRST.txt` is included in the portable package. Keep Windows Firewall enabled and verify offline isolation independently before connecting a console.
 
 ## Windows Mobile Hotspot setup — important power-saving setting
 
@@ -109,7 +120,7 @@ SwitchNest AIO is in active development. Back up important data before testing a
 
 **Project development:** [blueshockz47](https://github.com/blueshockz47)
 
-**Project foundation:** [SwitchNest Linux / SwitchNest Hotspot](https://github.com/blueshockz47/SwitchNest-Hotspot) — the original Linux project and its homebrew catalog approach. The Windows implementation also builds on [SwitchNest Windows](https://github.com/blueshockz47/SwitchNest-Windows).
+**Related project:** [SwitchNest Hotspot for Linux](https://github.com/blueshockz47/SwitchNest-Hotspot). SwitchNest AIO was developed separately from scratch for Windows.
 
 ### Libraries and platform components
 
