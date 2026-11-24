@@ -80,11 +80,29 @@ Browse homebrew by category, inspect available release assets, and use the suppo
 
 Configure supported Windows Mobile Hotspot options and local network preferences from the application.
 
-## Download
+## Download SwitchNest AIO — v1.0.0-Beta
 
-**First planned release: `v1.0.0-Beta`**
+<div align="center">
 
-The Windows portable ZIP and a separate source-code ZIP will appear on the [Releases page](https://github.com/blueshockz47/SwitchNest-AIO/releases) when the beta is published. Until then, no public release assets are available. The release will also include SHA-256 checksums.
+### ⬇️ [Download SwitchNest AIO for Windows](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.0-Beta/SwitchNest-AIO-v1.0.0-Beta.zip)
+
+**Windows 10 / 11 · 64-bit · Portable · No installer required**
+
+**[View release notes](https://github.com/blueshockz47/SwitchNest-AIO/releases/tag/v1.0.0-Beta)**
+
+</div>
+
+| File | Who needs it? | Download |
+| --- | --- | --- |
+| **Windows application** — `SwitchNest-AIO-v1.0.0-Beta.zip` | **Most users — download this one.** | **[Download Windows ZIP](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.0-Beta/SwitchNest-AIO-v1.0.0-Beta.zip)** |
+| Source code — `SwitchNest-AIO-source.zip` | Developers who want to inspect or build the application. | [Download source ZIP](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.0-Beta/SwitchNest-AIO-source.zip) |
+| `SHA256SUMS` | Anyone who wants to verify the downloaded ZIP files. | [Download checksums](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.0-Beta/SHA256SUMS) |
+
+> **Not sure which file to download?** Choose **SwitchNest-AIO-v1.0.0-Beta.zip**. The source ZIP is not the ready-to-run application. GitHub's automatically generated “Source code (zip)” and “Source code (tar.gz)” files are snapshots of the public release repository and are **not** the Windows app.
+
+**Quick start:** Extract the Windows ZIP → open the `SwitchNest` folder → read `README-FIRST.txt` → launch `SwitchNest-AIO.exe`. **Before starting the hotspot, configure its SSID and password in Settings.** Keep `_internal` and `SwitchNest-Service-Helper.exe` together.
+
+**Beta warning:** Verify hotspot internet isolation independently before connecting your console. Windows Mobile Hotspot/ICS may provide internet access even when local DNS is active.
 
 ## First-time setup
 
