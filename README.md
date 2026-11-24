@@ -14,7 +14,11 @@ A streamlined Windows companion application for managing homebrew, transferring 
 
 **Windows 10 / 11 · x64 · Portable · Beta**
 
-[Releases](https://github.com/blueshockz47/SwitchNest-AIO/releases) · [Report an issue](https://github.com/blueshockz47/SwitchNest-AIO/issues)
+### [⬇️ Download SwitchNest AIO v1.0.0-Beta for Windows](https://github.com/blueshockz47/SwitchNest-AIO/releases/download/v1.0.0-Beta/SwitchNest-AIO-v1.0.0-Beta.zip)
+
+**For most users: download the Windows ZIP above.** Extract it, then run `SwitchNest-AIO.exe`.
+
+[Other downloads: source code and SHA-256 checksums](#download-switchnest-aio--v100-beta) · [Release notes](https://github.com/blueshockz47/SwitchNest-AIO/releases/tag/v1.0.0-Beta) · [Report an issue](https://github.com/blueshockz47/SwitchNest-AIO/issues)
 
 </div>
 
